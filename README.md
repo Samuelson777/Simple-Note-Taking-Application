@@ -31,3 +31,5 @@ Note added!
 ## Example Screenshot
 ![Simple Note-Taking Application Screenshot](https://github.com/user-attachments/assets/e8419228-b49f-47d7-9d84-6c8c00fcbca8)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Simple-Note-Taking-Application/blob/main/LICENSE) file for details.
